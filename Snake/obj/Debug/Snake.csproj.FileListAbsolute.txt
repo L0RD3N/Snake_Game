@@ -1,0 +1,10 @@
+C:\Users\lucav\Documents\Programming Projects\C#\Snake\Snake\bin\Debug\Snake.exe.config
+C:\Users\lucav\Documents\Programming Projects\C#\Snake\Snake\bin\Debug\Snake.exe
+C:\Users\lucav\Documents\Programming Projects\C#\Snake\Snake\bin\Debug\Snake.pdb
+C:\Users\lucav\Documents\Programming Projects\C#\Snake\Snake\obj\Debug\Snake.csproj.AssemblyReference.cache
+C:\Users\lucav\Documents\Programming Projects\C#\Snake\Snake\obj\Debug\Snake.Form1.resources
+C:\Users\lucav\Documents\Programming Projects\C#\Snake\Snake\obj\Debug\Snake.Properties.Resources.resources
+C:\Users\lucav\Documents\Programming Projects\C#\Snake\Snake\obj\Debug\Snake.csproj.GenerateResource.cache
+C:\Users\lucav\Documents\Programming Projects\C#\Snake\Snake\obj\Debug\Snake.csproj.CoreCompileInputs.cache
+C:\Users\lucav\Documents\Programming Projects\C#\Snake\Snake\obj\Debug\Snake.exe
+C:\Users\lucav\Documents\Programming Projects\C#\Snake\Snake\obj\Debug\Snake.pdb
